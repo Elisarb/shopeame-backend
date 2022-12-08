@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 6,
+      "name": "Jarabe marca blanca",
+      "price": 12.5,
+      "description": "No cura el COVID, pero está muy rico.",
+      "stars": 1,
+      "image": "https://i.ibb.co/mhgHWnf/jarabe.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Maceta de diseño",
+      "price": 9.99,
+      "description": "Maceta de diseño a precio económico.",
+      "stars": 5,
+      "image": "https://i.ibb.co/MZSrV6q/maceta.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Gato Persa",
+      "price": 100,
+      "description": "No sé si es legal vender animales online...",
+      "stars": 3,
+      "image": "https://i.ibb.co/1zPPBjx/gato.jpg"
+    },
+    {
+      "name": "bici",
+      "price": "2",
+      "description": "bici",
+      "stars": "2",
+      "image": "https://http2.mlstatic.com/bicicleta-montana-suspension-r26-21-velocidades-centurfit-D_NQ_NP_698095-MLM28544169623_102018-F.jpg",
+      "id": 9
+    },
+    {
+      "name": "Maleta",
+      "price": "50",
+      "description": "Maleta de 23 kg",
+      "stars": "5",
+      "image": "https://www.pngplay.com/wp-content/uploads/2/Black-Suitcase-PNG-Images-HD.png",
+      "id": 10
+    },
+    {
+      "name": "Aspiradora",
+      "price": "50",
+      "description": "Aspiradora sin cable",
+      "stars": "4",
+      "image": "https://media3.bosch-home.com/Product_Shots/900x506/MCSA03174356_J5014_2525294_BHN24L_def.webp",
+      "id": 11
+    },
+    {
+      "name": "Zapato",
+      "price": "2",
+      "description": "Un zapato sin par. Asi sin mas",
+      "stars": "1",
+      "image": "https://www.pngmart.com/files/1/Black-Shoe-PNG-Image.png",
+      "id": 12
+    }
+  ]
+}
